@@ -218,3 +218,4 @@ C:\SelfLearning\Playwright\Microsoft\PlaywrightTests\obj\Debug\net8.0\refint\Pla
 C:\SelfLearning\Playwright\Microsoft\PlaywrightTests\obj\Debug\net8.0\PlaywrightTests.pdb
 C:\SelfLearning\Playwright\Microsoft\PlaywrightTests\obj\Debug\net8.0\PlaywrightTests.genruntimeconfig.cache
 C:\SelfLearning\Playwright\Microsoft\PlaywrightTests\obj\Debug\net8.0\ref\PlaywrightTests.dll
+C:\SelfLearning\Playwright\Microsoft\PlaywrightTests\obj\Debug\net8.0\PlaywrightTests.sourcelink.json
